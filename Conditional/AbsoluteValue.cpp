@@ -7,5 +7,5 @@ int main(){
     if(n < 0) n *= -1;
     cout<<n;
     // if(n > 0) cout<<n;
-    // else cout<<-n;
+    // else cout<<-n; 
 }
